@@ -1,7 +1,7 @@
 
 
 <!--
-**katymykhailova/katymykhailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=S&color=blue">
 </div>
 
-<h1 align="center">Hi! My name's  Kateryna👋</h2>
+<h1 align="center">Hi! My name's Shuydo👋</h2>
 <h2 align="center">💬 About</h2>
 <p>Front-End developer</p>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       <span class="sidebar-text">NPM </span>
     </li>
     <li>
-      <span class="sidebar-text">Formik/Yup/React Hook Form/Axios/Emotion/Material-UI/Bootstrap/others...</span>
+      <span class="sidebar-text">Joi/Axios/Bootstrap/others...</span>
     </li>
     <li>
       <span class="sidebar-text">Figma </span>
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://katymykhailova.github.io/goit-markup-hw-final/"
+        href="https://"
         >Web Studio</a
       >
       <span class="dots">......................................</span>
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://katymykhailova.github.io/ddt-js-project/"
+        href="https://"
         >Filmoteka</a
       >
       <span class="dots"></span>..........................................<span>
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://ktm-goit-react-hw-05-movies.netlify.app/"
+        href="https://"
         >Filmoteka /react/</a
       >
       <span class="dots">............................</span>
@@ -143,26 +143,11 @@ Here are some ideas to get you started:
         </span>
         <b>]</b></span
       >
-    </li>
+    </li>    
     <li>
       <a
         target="blanc"
-        href="https://ktm-filmoteka.netlify.app/"
-        >Filmoteka /Vue/</a
-      >
-      <span class="dots">..............................</span>
-      <span
-        ><b>[</b>
-        <span class="tech-name"
-          >HTML5, CSS3, JavaScript, Axios, Vue.js, Vue router
-        </span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://ktm-phonebook.netlify.app/"
+        href="https://"
         >Phonebook /react/redux/</a
       >
       <span class="dots">...........</span>
