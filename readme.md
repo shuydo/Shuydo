@@ -65,17 +65,13 @@ Here are some ideas to get you started:
   <ul>
     <li>
       <span class="sidebar-text">Responsibility</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Proactive</span>
-    </li>
+    </li>    
     <li>
       <span class="sidebar-text">Scrum</span>
     </li>
     <li>
       <span class="sidebar-text">Agile</span>
-    </li>
-    <li><span class="sidebar-text">GTD</span></li>
+    </li>    
     <li>
       <span class="sidebar-text">Teamwork</span>
     </li>
