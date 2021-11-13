@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=S&color=blue">
+<img src="https://komarev.com/ghpvc/?username=Shuydo&color=blue">
 </div>
 
 <h1 align="center">Hi! My name's Shuydo👋</h2>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       <span class="sidebar-text">HTML5/CSS3/SASS/BEM</span>
     </li>
     <li>
-      <span class="sidebar-text">JavaScript Es6+</span>
+      <span class="sidebar-text">JavaScript ES6+</span>
     </li>
     <li>
       <span class="sidebar-text">React.js/React router/React hooks</span>
