@@ -30,10 +30,7 @@ Here are some ideas to get you started:
     </li>
     <li>
       <span class="sidebar-text">JavaScript ES6+</span>
-    </li>
-    <li>
-      <span class="sidebar-text">React.js/React router/React hooks</span>
-    </li>
+    </li>    
     <li>
       <span class="sidebar-text">Redux/Redux Toolkit/Async Redux</span>
     </li>
