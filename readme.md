@@ -96,7 +96,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://katymykhailova.github.io/codehunters-team-proj/"
+        href="https://"
         >HellEN</a
       >
       <span class="dots">................................................</span>
