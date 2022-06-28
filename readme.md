@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://"
+        href="https://shuydo.github.io/goit-markup-hw-08/"
         >Web Studio</a
       >
       <span class="dots">......................................</span>
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://"
+        href="https://maks1988-88-88.github.io/hellen/"
         >HellEN</a
       >
       <span class="dots">................................................</span>
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://"
+        href="https://maks1988-88-88.github.io/Filmoteka/"
         >Filmoteka</a
       >
       <span class="dots"></span>..........................................<span>
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://"
+        href="https://shuydo-movies.netlify.app/"
         >Filmoteka /react/</a
       >
       <span class="dots">............................</span>
