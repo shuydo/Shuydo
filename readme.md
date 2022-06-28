@@ -137,7 +137,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://"
+        href="https://shuydo.github.io/goit-react-hw-08-phonebook/"
         >Phonebook /react/redux/</a
       >
       <span class="dots">...........</span>
