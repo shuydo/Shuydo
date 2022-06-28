@@ -119,7 +119,7 @@ Here are some ideas to get you started:
           href="https://shuydo-movies.netlify.app/"
           >Filmoteka /react/</a
         >
-        <span class="dots">.......................</span>
+        <span class="dots">........................</span>
         <span
           ><b>[</b>
           <span class="tech-name"
