@@ -104,7 +104,7 @@ Here are some ideas to get you started:
           href="https://maks1988-88-88.github.io/Filmoteka/"
           >Filmoteka</a
         >
-        <span class="dots"></span>...........................<span>
+        <span class="dots"></span>.....................................<span>
         <span
           ><b>[</b>
           <span class="tech-name"
