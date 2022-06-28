@@ -49,8 +49,7 @@ Here are some ideas to get you started:
       </li>
       <li>
         <span class="sidebar-text">Joi/Axios/Bootstrap/others...</span>
-      </li>
-      
+      </li>      
     </ul>
   </div>
   <div class="sidebar-container">
