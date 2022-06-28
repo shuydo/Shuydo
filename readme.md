@@ -79,7 +79,7 @@ Here are some ideas to get you started:
           href="https://shuydo.github.io/goit-markup-hw-08/"
           >Web Studio</a
         >
-        <span class="dots">........................</span>
+        <span class="dots">....................................</span>
         <span
           ><b>[</b> <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
           <b>]</b></span
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
           href="https://maks1988-88-88.github.io/hellen/"
           >HellEN</a
         >
-        <span class="dots">...............................</span>
+        <span class="dots">...............................................</span>
         <span
           ><b>[</b>
           <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
           href="https://maks1988-88-88.github.io/Filmoteka/"
           >Filmoteka</a
         >
-        <span class="dots"></span>..........................................<span>
+        <span class="dots"></span>........................................<span>
         <span
           ><b>[</b>
           <span class="tech-name"
